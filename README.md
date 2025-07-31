@@ -74,4 +74,5 @@ This project is licensed under the MIT License.
 ## Author
 
 [Surya](https://github.com/Techie-Surya)
-[Linkedin]([Surya](https://www.linkedin.com/in/suryasnata-dash/))
+
+[Linkedin](https://www.linkedin.com/in/suryasnata-dash/)
