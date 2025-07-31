@@ -28,8 +28,9 @@ This repository is designed to help learners and practitioners get started with 
 - Reference links to popular AI/ML papers and courses
 
   ## images
-  <img width="1000" height="650" alt="Screenshot 2025-07-02 095018" src="https://github.com/user-attachments/assets/26ea4b0f-8b73-4feb-a447-c93fad97986d" />
-  <img width="1280" height="720" alt="Screenshot 2025-07-02 095018" src="https://github.com/user-attachments/assets/26ba705f-e18d-4313-8511-cc584f229f9d" />
+  <img width="720" height="550" alt="Screenshot 2025-07-02 095018" src="https://github.com/user-attachments/assets/26ea4b0f-8b73-4feb-a447-c93fad97986d" />
+<img width="991" height="846" alt="image" src="https://github.com/user-attachments/assets/37609313-77af-41eb-9dd5-09742bdfe167" />
+
 
 
 
